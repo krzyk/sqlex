@@ -1,0 +1,2 @@
+# sqlex
+SQL Executor
